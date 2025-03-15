@@ -1,0 +1,84 @@
+body{
+ background-color: black;
+color: white;
+}
+.section_1{
+width:50%;
+margin:150px auto;
+}
+h1{
+    font-size: 60px;
+    font-weight: 300;
+  
+}
+
+.signup{
+    display:flex;
+    flex-direction: column;
+  
+   
+    
+}
+#name{
+    background-color:#00000000;
+    color: #fff;
+    border:none;
+    outline: none;
+    font-size: 30px;
+    border-bottom: 1px solid white;
+}
+#email{
+    background-color: #00000000;
+    color: white; 
+    padding:10px;
+    border:none;
+    outline: none;
+    font-size: 30px;
+    border-bottom: 1px solid white;
+}
+#password{
+    background-color: #00000000;
+    color: white; 
+    border:none;
+    outline: none;
+    padding:10px;
+    font-size: 30px;
+    border-bottom: 1px solid white;
+}
+#c_password{
+    background-color: #00000000;
+    color: white; 
+    border:none;
+    outline: none;
+    padding:10px;
+    font-size: 30px;
+    border-bottom: 1px solid white;
+}
+#date{
+    background-color: #00000000;
+    color: white; 
+    border:none;
+    outline: none;
+    font-size: 30px;
+    border-bottom: 1px solid white;
+}
+.gender{
+    background-color: #00000000;
+    color: white; 
+    display: inline-block;
+    font-size: 30px;
+   
+}
+.checkbox{
+    background-color: #00000000;
+    color: white; 
+    display:inline-block;
+    font-size: 30px;
+    padding:10px;
+    margin:0px;
+}
+.submitbtn{
+    font-size: 30px;
+    height: 50px;
+    width: 200px;;
+}
